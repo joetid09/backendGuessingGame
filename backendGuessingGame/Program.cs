@@ -21,7 +21,15 @@ namespace backendGuessingGame
                 }
                 else if (i < 4)
                 {
-                    Console.WriteLine($"Your guess {guess} was incorrect. You have {4 - i} tries left,  try again?");
+                    if (guess > secretNumber)
+                    {
+                        Console.WriteLine($"Your guess {guess} was too high. You have {4 - i} tries left,  try again?");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Your guess {guess} was too low. You have {4 - i} tries left,  try again?");
+                    }
+
                 }
                 else
                 {

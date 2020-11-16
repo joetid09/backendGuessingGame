@@ -8,8 +8,16 @@ namespace backendGuessingGame
         {
             Console.Write("Guess a secret number: ");
             string guess = Console.ReadLine();
-            Console.WriteLine("");
-            Console.WriteLine($"You guessed: {guess}");
+            string secretNumber = ("43");
+
+            if (guess == secretNumber)
+            {
+                Console.Write("Congratulations, you have guessed correctly!");
+            }
+            else
+            {
+                Console.Write("Uh Oh, that was incorrect.... try again?");
+            }
         }
     }
 }

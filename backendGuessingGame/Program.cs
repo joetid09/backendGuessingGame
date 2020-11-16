@@ -6,11 +6,13 @@ namespace backendGuessingGame
     {
         static void Main(string[] args)
         {
+            int secretNumber = new Random().Next(1, 100);
+            Console.WriteLine($" secret number: {secretNumber}");
+
             for (int i = 1; i < 5; i++)
             {
                 Console.Write("Guess a secret number: ");
-                string guess = Console.ReadLine();
-                string secretNumber = ("43");
+                int guess = Convert.ToInt32(Console.ReadLine());
 
                 if (guess == secretNumber)
                 {
@@ -19,7 +21,7 @@ namespace backendGuessingGame
                 }
                 else if (i < 4)
                 {
-                    Console.WriteLine($"Your guess {guess} was incorrect, try again?");
+                    Console.WriteLine($"Your guess {guess} was incorrect. You have {4 - i} tries left,  try again?");
                 }
                 else
                 {

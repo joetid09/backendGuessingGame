@@ -6,7 +6,7 @@ namespace backendGuessingGame
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 4; i++)
+            for (int i = 1; i < 5; i++)
             {
                 Console.Write("Guess a secret number: ");
                 string guess = Console.ReadLine();
@@ -15,14 +15,15 @@ namespace backendGuessingGame
                 if (guess == secretNumber)
                 {
                     Console.WriteLine("Congratulations, you have guessed correctly!");
+                    break;
                 }
-                else if (i < 3)
+                else if (i < 4)
                 {
-                    Console.WriteLine("Uh Oh, that was incorrect.... try again?");
+                    Console.WriteLine($"Your guess {guess} was incorrect, try again?");
                 }
-                else if (i == 3)
+                else
                 {
-                    Console.WriteLine("I'm cutting you off, get outta HERE!");
+                    Console.WriteLine($"4 guesses and still wrong?? I'm cutting you off, get outta HERE!");
                 }
             }
         }

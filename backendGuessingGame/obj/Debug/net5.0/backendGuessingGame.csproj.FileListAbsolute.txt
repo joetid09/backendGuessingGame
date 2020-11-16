@@ -1,0 +1,16 @@
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.exe
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.deps.json
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.runtimeconfig.json
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.runtimeconfig.dev.json
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.dll
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\ref\backendGuessingGame.dll
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\bin\Debug\net5.0\backendGuessingGame.pdb
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.csprojAssemblyReference.cache
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.AssemblyInfoInputs.cache
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.AssemblyInfo.cs
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.dll
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\ref\backendGuessingGame.dll
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.pdb
+C:\Users\josep\workspace\backendGuessingGame\backendGuessingGame\obj\Debug\net5.0\backendGuessingGame.genruntimeconfig.cache
